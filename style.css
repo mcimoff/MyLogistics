@@ -1,0 +1,13 @@
+.containerButton{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background:  linear-gradient(245.59deg, #31494e 0%, #385e70 25%, #131313 75% ); /*fondo de color gradiente*/
+    font-size: 30px;
+    font-weight: 400px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding-top: 200px;
+    
+}
+
