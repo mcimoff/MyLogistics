@@ -1,0 +1,30 @@
+.containerButton{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background:  linear-gradient(245.59deg, #31494e 0%, #385e70 25%, #131313 75% ); /*fondo de color gradiente*/
+    font-size: 30px;
+    font-weight: 400px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding-top: 200px;
+    
+}
+
+.containerSearch{
+    margin: auto;
+    color: rgb(235, 235, 242);
+    background-color: rgb(16, 11, 92);
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    width: 50%;
+    text-align: center;
+    border-radius: 10%;
+    text-decoration: dashed;
+}
+
+a{
+    color: aliceblue;
+    bottom: auto;
+}
